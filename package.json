@@ -23,7 +23,7 @@
     "@astrojs/node": "^6.1.0",
     "@astrojs/react": "^3.0.9",
     "@kiltprotocol/sdk-js": "^0.34.0",
-    "@polkadot/extension-dapp": "^0.46.5",
+    "@polkadot/extension-dapp": "^0.46.6",
     "astro": "^3.6.4",
     "got": "^12.6.1",
     "http-status-codes": "^2.3.0",
