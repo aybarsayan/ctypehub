@@ -20,7 +20,7 @@
     "start": "pnpm migrate && pnpm seed && node --enable-source-maps dist/server/entry.mjs"
   },
   "dependencies": {
-    "@astrojs/node": "^6.1.0",
+    "@astrojs/node": "^8.1.0",
     "@astrojs/react": "^3.0.9",
     "@kiltprotocol/sdk-js": "^0.34.0",
     "@polkadot/extension-dapp": "^0.46.5",
